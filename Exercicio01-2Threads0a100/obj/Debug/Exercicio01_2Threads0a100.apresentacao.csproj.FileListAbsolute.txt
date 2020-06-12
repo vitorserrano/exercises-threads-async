@@ -1,0 +1,7 @@
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio01-2Threads0a100\bin\Debug\Exercicio01-2Threads0a100.exe.config
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio01-2Threads0a100\bin\Debug\Exercicio01-2Threads0a100.exe
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio01-2Threads0a100\bin\Debug\Exercicio01-2Threads0a100.pdb
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio01-2Threads0a100\obj\Debug\Exercicio01_2Threads0a100.apresentacao.csprojAssemblyReference.cache
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio01-2Threads0a100\obj\Debug\Exercicio01_2Threads0a100.apresentacao.csproj.CoreCompileInputs.cache
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio01-2Threads0a100\obj\Debug\Exercicio01-2Threads0a100.exe
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio01-2Threads0a100\obj\Debug\Exercicio01-2Threads0a100.pdb

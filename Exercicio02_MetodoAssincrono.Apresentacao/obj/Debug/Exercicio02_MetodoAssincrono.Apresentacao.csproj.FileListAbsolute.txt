@@ -1,0 +1,7 @@
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio02_MetodoAssincrono.Apresentacao\bin\Debug\Exercicio02_MetodoAssincrono.Apresentacao.exe.config
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio02_MetodoAssincrono.Apresentacao\bin\Debug\Exercicio02_MetodoAssincrono.Apresentacao.exe
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio02_MetodoAssincrono.Apresentacao\bin\Debug\Exercicio02_MetodoAssincrono.Apresentacao.pdb
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio02_MetodoAssincrono.Apresentacao\obj\Debug\Exercicio02_MetodoAssincrono.Apresentacao.csprojAssemblyReference.cache
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio02_MetodoAssincrono.Apresentacao\obj\Debug\Exercicio02_MetodoAssincrono.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio02_MetodoAssincrono.Apresentacao\obj\Debug\Exercicio02_MetodoAssincrono.Apresentacao.exe
+C:\Projetos C#\FACEC\ProjetoProgramacaoAssincrona\Exercicio02_MetodoAssincrono.Apresentacao\obj\Debug\Exercicio02_MetodoAssincrono.Apresentacao.pdb
